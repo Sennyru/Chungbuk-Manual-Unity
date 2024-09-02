@@ -1,0 +1,20 @@
+Library/
+Temp/
+Obj/
+Build/
+Builds/
+Logs/
+UserSettings/
+
+*.csproj
+*.sln
+
+.idea/
+.vs/
+.vscode/
+
+# Debugging
+test_query.json
+
+# Font copyright issue
+Assets/Fonts/Ansungtangmyun-Bold.ttf
